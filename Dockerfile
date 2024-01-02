@@ -1,6 +1,6 @@
 FROM zilzalll/zthon:slim-buster
 
-RUN git clone https://github.com/Zilzalll/ZThon.git /root/zira
+RUN git clone https://github.com/devmonzer08/Sleader.git /root/zira
 
 WORKDIR /root/zira
 
